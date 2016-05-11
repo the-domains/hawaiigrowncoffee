@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[hawaiigrowncoffee]]></title>
         <description><![CDATA[hawaiigrowncoffee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hawaiigrowncoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 21:17:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 21:18:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hawaiigrowncoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfda6f7d-c13c-4c43-b0d3-b4a552a288e7.jpg">]]></description>
+            <link>https://thegrid.ai/hawaiigrowncoffee/7dd966c8-2c4d-4034-b840-991bf8a381bb/index.html</link>
+            <guid isPermaLink="false">7dd966c8-2c4d-4034-b840-991bf8a381bb</guid>
+            <pubDate>Wed, 11 May 2016 21:18:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hawaii Grown Coffee</p>]]></description>
-            <link>undefinedhawaii-grown-coffee/index.html</link>
+            <link>https://thegrid.ai/hawaiigrowncoffee/hawaii-grown-coffee/index.html</link>
             <guid isPermaLink="false">0a70cb79-b782-4358-8309-e9e6318f716e</guid>
             <pubDate>Wed, 11 May 2016 21:17:58 GMT</pubDate>
         </item>
